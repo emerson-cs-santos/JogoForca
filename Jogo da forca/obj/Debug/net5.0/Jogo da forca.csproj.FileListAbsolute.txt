@@ -1,0 +1,32 @@
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.exe
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.deps.json
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.runtimeconfig.json
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.runtimeconfig.dev.json
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.dll
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\ref\Jogo da forca.dll
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.pdb
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.csproj.AssemblyReference.cache
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.AssemblyInfoInputs.cache
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.AssemblyInfo.cs
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.dll
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\ref\Jogo da forca.dll
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.pdb
+C:\Users\Emerson\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.genruntimeconfig.cache
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.exe
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.deps.json
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.runtimeconfig.json
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.runtimeconfig.dev.json
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.dll
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\ref\Jogo da forca.dll
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\bin\Debug\net5.0\Jogo da forca.pdb
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.csproj.AssemblyReference.cache
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.AssemblyInfoInputs.cache
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.AssemblyInfo.cs
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.dll
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\ref\Jogo da forca.dll
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.pdb
+C:\Users\Emerson\source\repos\JogoForca\Jogo da forca\obj\Debug\net5.0\Jogo da forca.genruntimeconfig.cache
